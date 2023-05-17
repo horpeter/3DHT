@@ -161,6 +161,6 @@ def segment(in_dir,out_dir):
     plt.show()
 
 if __name__ == "__main__":
-    in_dir = "source.jpg"
+    in_dir = "path/to/input"
     out_dir = "path/to/output"
     segment(in_dir,out_dir)
